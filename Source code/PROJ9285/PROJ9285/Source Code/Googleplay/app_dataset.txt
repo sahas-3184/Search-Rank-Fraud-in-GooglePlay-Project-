@@ -1,0 +1,500 @@
+﻿App	Category	Rating	Reviews	Size	Installs	Type	Price	Content Rating	Genres	Last Updated	Current Ver	Android Ver
+Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
+Coloring book moana	ART_AND_DESIGN	3.9	967	14M	500,000+	Free	0	Everyone	Art & Design;Pretend Play	15-Jan-18	2.0.0	4.0.3 and up
+U Launcher Lite  FREE Live Cool Themes, Hide Apps	ART_AND_DESIGN	4.7	87510	8.7M	5,000,000+	Free	0	Everyone	Art & Design	1-Aug-18	1.2.4	4.0.3 and up
+Sketch - Draw & Paint	ART_AND_DESIGN	4.5	215644	25M	50,000,000+	Free	0	Teen	Art & Design	8-Jun-18	Varies with device	4.2 and up
+Pixel Draw - Number Art Coloring Book	ART_AND_DESIGN	4.3	967	2.8M	100,000+	Free	0	Everyone	Art & Design;Creativity	20-Jun-18	1.1	4.4 and up
+Paper flowers instructions	ART_AND_DESIGN	4.4	167	5.6M	50,000+	Free	0	Everyone	Art & Design	26-Mar-17	1	2.3 and up
+Smoke Effect Photo Maker - Smoke Editor	ART_AND_DESIGN	3.8	178	19M	50,000+	Free	0	Everyone	Art & Design	26-Apr-18	1.1	4.0.3 and up
+Infinite Painter	ART_AND_DESIGN	4.1	36815	29M	1,000,000+	Free	0	Everyone	Art & Design	14-Jun-18	6.1.61.1	4.2 and up
+Garden Coloring Book	ART_AND_DESIGN	4.4	13791	33M	1,000,000+	Free	0	Everyone	Art & Design	20-Sep-17	2.9.2	3.0 and up
+Kids Paint Free - Drawing Fun	ART_AND_DESIGN	4.7	121	3.1M	10,000+	Free	0	Everyone	Art & Design;Creativity	3-Jul-18	2.8	4.0.3 and up
+Text on Photo - Fonteee	ART_AND_DESIGN	4.4	13880	28M	1,000,000+	Free	0	Everyone	Art & Design	27-Oct-17	1.0.4	4.1 and up
+Name Art Photo Editor - Focus n Filters	ART_AND_DESIGN	4.4	8788	12M	1,000,000+	Free	0	Everyone	Art & Design	31-Jul-18	1.0.15	4.0 and up
+Tattoo Name On My Photo Editor	ART_AND_DESIGN	4.2	44829	20M	10,000,000+	Free	0	Teen	Art & Design	2-Apr-18	3.8	4.1 and up
+Mandala Coloring Book	ART_AND_DESIGN	4.6	4326	21M	100,000+	Free	0	Everyone	Art & Design	26-Jun-18	1.0.4	4.4 and up
+3D Color Pixel by Number - Sandbox Art Coloring	ART_AND_DESIGN	4.4	1518	37M	100,000+	Free	0	Everyone	Art & Design	3-Aug-18	1.2.3	2.3 and up
+Learn To Draw Kawaii Characters	ART_AND_DESIGN	3.2	55	2.7M	5,000+	Free	0	Everyone	Art & Design	6-Jun-18	NaN	4.2 and up
+Photo Designer - Write your name with shapes	ART_AND_DESIGN	4.7	3632	5.5M	500,000+	Free	0	Everyone	Art & Design	31-Jul-18	3.1	4.1 and up
+350 Diy Room Decor Ideas	ART_AND_DESIGN	4.5	27	17M	10,000+	Free	0	Everyone	Art & Design	7-Nov-17	1	2.3 and up
+FlipaClip - Cartoon animation	ART_AND_DESIGN	4.3	194216	39M	5,000,000+	Free	0	Everyone	Art & Design	3-Aug-18	2.2.5	4.0.3 and up
+ibis Paint X	ART_AND_DESIGN	4.6	224399	31M	10,000,000+	Free	0	Everyone	Art & Design	30-Jul-18	5.5.4	4.1 and up
+Logo Maker - Small Business	ART_AND_DESIGN	4	450	14M	100,000+	Free	0	Everyone	Art & Design	20-Apr-18	4	4.1 and up
+Boys Photo Editor - Six Pack & Men's Suit	ART_AND_DESIGN	4.1	654	12M	100,000+	Free	0	Everyone	Art & Design	20-Mar-18	1.1	4.0.3 and up
+Superheroes Wallpapers | 4K Backgrounds	ART_AND_DESIGN	4.7	7699	4.2M	500,000+	Free	0	Everyone 10+	Art & Design	12-Jul-18	2.2.6.2	4.0.3 and up
+Mcqueen Coloring pages	ART_AND_DESIGN	NaN	61	7.0M	100,000+	Free	0	Everyone	Art & Design;Action & Adventure	7-Mar-18	1.0.0	4.1 and up
+HD Mickey Minnie Wallpapers	ART_AND_DESIGN	4.7	118	23M	50,000+	Free	0	Everyone	Art & Design	7-Jul-18	1.1.3	4.1 and up
+Harley Quinn wallpapers HD	ART_AND_DESIGN	4.8	192	6.0M	10,000+	Free	0	Everyone	Art & Design	25-Apr-18	1.5	3.0 and up
+Colorfit - Drawing & Coloring	ART_AND_DESIGN	4.7	20260	25M	500,000+	Free	0	Everyone	Art & Design;Creativity	11-Oct-17	1.0.8	4.0.3 and up
+Animated Photo Editor	ART_AND_DESIGN	4.1	203	6.1M	100,000+	Free	0	Everyone	Art & Design	21-Mar-18	1.03	4.0.3 and up
+Pencil Sketch Drawing	ART_AND_DESIGN	3.9	136	4.6M	10,000+	Free	0	Everyone	Art & Design	12-Jul-18	6	2.3 and up
+Monster Truck Stunt 3D 2019	AUTO_AND_VEHICLES	4.2	367	25M	100,000+	Free	0	Everyone	Auto & Vehicles	10-May-18	1	4.0.3 and up
+Real Tractor Farming	AUTO_AND_VEHICLES	4	1598	56M	1,000,000+	Free	0	Everyone	Auto & Vehicles	26-Jul-18	11	4.1 and up
+Ultimate F1 Racing Championship	AUTO_AND_VEHICLES	3.8	284	57M	100,000+	Free	0	Everyone	Auto & Vehicles	26-Jul-18	3	4.1 and up
+Used Cars and Trucks for Sale	AUTO_AND_VEHICLES	4.6	17057	Varies with device	1,000,000+	Free	0	Everyone	Auto & Vehicles	30-Jul-18	Varies with device	Varies with device
+American Muscle Car Race	AUTO_AND_VEHICLES	3.9	129	35M	100,000+	Free	0	Everyone	Auto & Vehicles	26-Jul-18	3	4.1 and up
+Offroad Oil Tanker Driver Transport Truck 2019	AUTO_AND_VEHICLES	4.3	542	33M	100,000+	Free	0	Everyone	Auto & Vehicles	31-Jul-18	4	4.1 and up
+Tickets SDA 2018 and Exam from the State Traffic Safety Inspectorate with Drom.ru	AUTO_AND_VEHICLES	4.9	10479	33M	100,000+	Free	0	Everyone	Auto & Vehicles	18-Jul-18	1.7.1	4.0 and up
+Gas Prices (Germany only)	AUTO_AND_VEHICLES	4.4	805	5.6M	50,000+	Free	0	Everyone	Auto & Vehicles	29-Jul-18	2.5.1	4.4 and up
+Extreme Rally Championship	AUTO_AND_VEHICLES	4.2	129	54M	100,000+	Free	0	Everyone	Auto & Vehicles	26-Jul-18	3	4.1 and up
+Restart Navigator	AUTO_AND_VEHICLES	4	1403	201k	100,000+	Free	0	Everyone	Auto & Vehicles	26-Aug-14	1.0.1	2.2 and up
+REG - Check the regnumber, find information about Swedish vehicles	AUTO_AND_VEHICLES	3.9	3971	3.6M	100,000+	Free	0	Everyone	Auto & Vehicles	30-Jul-18	2.493	4.4 and up
+CityBus Lviv	AUTO_AND_VEHICLES	4.6	534	5.7M	10,000+	Free	0	Everyone	Auto & Vehicles	8-Jul-18	1.9.1	4.0.3 and up
+CDL Practice Test 2018 Edition	AUTO_AND_VEHICLES	4.9	7774	17M	100,000+	Free	0	Everyone	Auto & Vehicles	3-Jul-18	1.7	4.2 and up
+ezETC (ETC balance inquiry, meter trial, real-time traffic)	AUTO_AND_VEHICLES	4.3	38846	8.6M	1,000,000+	Free	0	Everyone	Auto & Vehicles	28-Jul-18	2.20 Build 02	4.1 and up
+Free VIN Report for Used Cars	AUTO_AND_VEHICLES	4.6	2431	2.4M	100,000+	Free	0	Everyone	Auto & Vehicles	12-Jun-18	1.37	4.0 and up
+DMV Permit Practice Test 2018 Edition	AUTO_AND_VEHICLES	4.9	6090	27M	100,000+	Free	0	Everyone	Auto & Vehicles	3-Jul-18	1.7	4.2 and up
+Check Vehicle Tax	AUTO_AND_VEHICLES	3.9	295	2.7M	10,000+	Free	0	Everyone	Auto & Vehicles	30-Jul-18	0.2.1	4.4 and up
+Used Cars Mexico	AUTO_AND_VEHICLES	4	190	2.5M	50,000+	Free	0	Everyone	Auto & Vehicles	14-Oct-16	1	2.3 and up
+Ulysse Speedometer	AUTO_AND_VEHICLES	4.3	40211	Varies with device	5,000,000+	Free	0	Everyone	Auto & Vehicles	30-Jul-18	Varies with device	Varies with device
+REPUVE	AUTO_AND_VEHICLES	3.9	356	Varies with device	100,000+	Free	0	Everyone	Auto & Vehicles	25-May-18	Varies with device	Varies with device
+Used cars for sale - Trovit	AUTO_AND_VEHICLES	4.2	52530	7.0M	5,000,000+	Free	0	Everyone	Auto & Vehicles	16-Jul-18	4.47.3	4.0.3 and up
+Fines of the State Traffic Safety Inspectorate are official: inspection, payment of fines	AUTO_AND_VEHICLES	4.8	116986	35M	5,000,000+	Free	0	Everyone	Auto & Vehicles	2-Aug-18	1.9.7	4.0.3 and up
+SK Enca Direct Malls - Used Cars Search	AUTO_AND_VEHICLES	3.6	1379	16M	500,000+	Free	0	Everyone	Auto & Vehicles	2-Aug-18	2.2.21	4.2 and up
+Android Auto - Maps, Media, Messaging & Voice	AUTO_AND_VEHICLES	4.2	271920	16M	10,000,000+	Free	0	Teen	Auto & Vehicles	11-Jul-18	Varies with device	5.0 and up
+PDD-UA	AUTO_AND_VEHICLES	4.8	736	Varies with device	100,000+	Free	0	Everyone	Auto & Vehicles	29-Jul-18	2.9	2.3.3 and up
+Tickets SDA 2019 + Exam RF	AUTO_AND_VEHICLES	4.8	7021	17M	500,000+	Free	0	Everyone	Auto & Vehicles	27-Jul-18	1.79	4.0 and up
+Super Cars Wallpapers And Backgrounds	AUTO_AND_VEHICLES	4.6	197	3.4M	50,000+	Free	0	Everyone	Auto & Vehicles	14-Jun-18	1.3	4.0 and up
+Police Lights, Sirens & Follow Me	AUTO_AND_VEHICLES	4.5	737	8.9M	100,000+	Free	0	Everyone	Auto & Vehicles	8-Jun-18	2.3.5.1	4.1 and up
+Police Detector (Speed Camera Radar)	AUTO_AND_VEHICLES	4.3	3574	3.9M	1,000,000+	Free	0	Everyone 10+	Auto & Vehicles	4-Jul-18	1.6	4.0 and up
+Best Car Wallpapers	AUTO_AND_VEHICLES	4.5	994	2.9M	100,000+	Free	0	Everyone	Auto & Vehicles	27-Mar-18	1.6	4.1 and up
+ipsy: Makeup, Beauty, and Tips	BEAUTY	4.9	49790	14M	1,000,000+	Free	0	Everyone	Beauty	9-Nov-17	2.3.0	4.1 and up
+Natural recipes for your beauty	BEAUTY	4.7	1150	9.8M	100,000+	Free	0	Everyone	Beauty	15-May-18	4	4.1 and up
+BestCam Selfie-selfie, beauty camera, photo editor	BEAUTY	3.9	1739	21M	500,000+	Free	0	Everyone	Beauty	12-Jul-18	1.0.6	4.0.3 and up
+Mirror - Zoom & Exposure -	BEAUTY	3.9	32090	Varies with device	1,000,000+	Free	0	Everyone	Beauty	24-Oct-16	Varies with device	Varies with device
+Beauty Selfie Camera	BEAUTY	4.2	2225	52M	500,000+	Free	0	Everyone	Beauty	28-Feb-18	1.6	4.1 and up
+Hairstyles step by step	BEAUTY	4.6	4369	14M	100,000+	Free	0	Everyone	Beauty	25-Jul-18	1.9	4.0.3 and up
+Filters for Selfie	BEAUTY	4.3	8572	25M	1,000,000+	Free	0	Everyone	Beauty	10-May-18	1.1.0	4.0 and up
+Tie - Always be happy	BEAUTY	4.7	964	9.0M	50,000+	Free	0	Everyone	Beauty	21-Jun-18	4	4.2 and up
+Ulta Beauty	BEAUTY	4.7	42050	Varies with device	1,000,000+	Free	0	Everyone	Beauty	5-Jun-18	5.4	5.0 and up
+Prom MakeUp Tutorial	BEAUTY	4.8	104	12M	10,000+	Free	0	Everyone	Beauty	26-Jun-18	1.3	4.0.3 and up
+Selfie Camera	BEAUTY	4.2	17934	Varies with device	1,000,000+	Free	0	Everyone	Beauty	12-Sep-17	Varies with device	Varies with device
+Sweet Selfie Beauty Camera	BEAUTY	4.3	601	35M	100,000+	Free	0	Everyone	Beauty	2-Jun-18	2.0.0	4.0 and up
+Colors of white in Urdu	BEAUTY	4.5	36	6.7M	10,000+	Free	0	Everyone	Beauty	26-Jul-18	6	4.0 and up
+Selfie Camera Photo Editor & Filter & Sticker	BEAUTY	4.1	187	30M	50,000+	Free	0	Teen	Beauty	24-Jul-18	3.0.1	4.0.3 and up
+Wrinkles and rejuvenation	BEAUTY	NaN	182	5.7M	100,000+	Free	0	Everyone 10+	Beauty	20-Sep-17	8	3.0 and up
+Eyes Makeup Beauty Tips	BEAUTY	4.2	30	2.9M	10,000+	Free	0	Everyone	Beauty	9-Apr-18	3.3.9	4.0.3 and up
+Photo Editor 2018	BEAUTY	4.5	134	17M	10,000+	Free	0	Everyone	Beauty	1-Mar-18	1.2	4.0.3 and up
+Step By Step Eyes Makeup Tutorial	BEAUTY	4.4	74	2.9M	10,000+	Free	0	Everyone	Beauty	5-Apr-18	2.3.09	4.0.3 and up
+Beauty Camera - Selfie Camera	BEAUTY	4	113715	Varies with device	10,000,000+	Free	0	Everyone	Beauty	3-Aug-17	Varies with device	Varies with device
+Girls Hairstyles	BEAUTY	4.1	3595	Varies with device	500,000+	Free	0	Everyone	Beauty	24-May-18	Varies with device	4.0 and up
+Mirror Camera (Mirror + Selfie Camera)	BEAUTY	4.1	9315	2.6M	1,000,000+	Free	0	Everyone	Beauty	21-Nov-17	1.4.2	4.0 and up
+Beauty Tips - Beauty Tips in Sinhala	BEAUTY	4.4	75	4.2M	50,000+	Free	0	Everyone	Beauty	18-Oct-17	1.0.0	4.0.3 and up
+Haircut Tutorials/Haircut Videos	BEAUTY	4.6	38	7.1M	10,000+	Free	0	Everyone	Beauty	29-May-18	1	4.0 and up
+Sephora: Skin Care, Beauty Makeup & Fragrance Shop	BEAUTY	4.5	26834	57M	1,000,000+	Free	0	Everyone	Beauty	24-Jul-18	18.5	5.0 and up
+Manicure - nail design	BEAUTY	NaN	119	3.7M	50,000+	Free	0	Everyone	Beauty	23-Jul-18	1.3	4.1 and up
+Sticker Camera - Selfie Filters, Beauty Camera	BEAUTY	3.9	2277	22M	500,000+	Free	0	Everyone	Beauty	12-Jul-18	1.1.0	4.0.3 and up
+Filters for B Live	BEAUTY	4.4	2280	24M	500,000+	Free	0	Everyone	Beauty	14-May-18	1.1.0	4.0 and up
+Skin Care and Natural Beauty	BEAUTY	NaN	654	7.4M	100,000+	Free	0	Teen	Beauty	17-Jul-18	1.15	4.1 and up
+Facial Wrinkle Reduction	BEAUTY	4.6	184	21M	10,000+	Free	0	Everyone	Beauty	2-Jul-18	1.5	4.1 and up
+Makeup Videos	BEAUTY	3.8	9	3.4M	5,000+	Free	0	Everyone	Beauty	7-Jun-18	1	4.0 and up
+Wattpad 📖 Free Books	BOOKS_AND_REFERENCE	4.6	2914724	Varies with device	100,000,000+	Free	0	Teen	Books & Reference	1-Aug-18	Varies with device	Varies with device
+E-Book Read - Read Book for free	BOOKS_AND_REFERENCE	4.5	1857	4.9M	50,000+	Free	0	Everyone	Books & Reference	3-Aug-18	1.3.2	4.4 and up
+Download free book with green book	BOOKS_AND_REFERENCE	4.6	4478	9.5M	100,000+	Free	0	Everyone 10+	Books & Reference	31-Jul-17	1.1	4.0 and up
+Wikipedia	BOOKS_AND_REFERENCE	4.4	577550	Varies with device	10,000,000+	Free	0	Everyone	Books & Reference	2-Aug-18	Varies with device	Varies with device
+Amazon Kindle	BOOKS_AND_REFERENCE	4.2	814080	Varies with device	100,000,000+	Free	0	Teen	Books & Reference	27-Jul-18	Varies with device	Varies with device
+Cool Reader	BOOKS_AND_REFERENCE	4.5	246315	Varies with device	10,000,000+	Free	0	Everyone	Books & Reference	17-Jul-15	Varies with device	1.5 and up
+Dictionary - Merriam-Webster	BOOKS_AND_REFERENCE	4.5	454060	Varies with device	10,000,000+	Free	0	Everyone	Books & Reference	18-May-18	Varies with device	Varies with device
+NOOK: Read eBooks & Magazines	BOOKS_AND_REFERENCE	4.5	155446	Varies with device	10,000,000+	Free	0	Teen	Books & Reference	25-Apr-18	Varies with device	Varies with device
+Free Panda Radio Music	BOOKS_AND_REFERENCE	4.5	418	4.2M	100,000+	Free	0	Everyone	Books & Reference	27-Mar-18	2.1	4.1 and up
+Book store	BOOKS_AND_REFERENCE	4.4	22486	5.4M	1,000,000+	Free	0	Teen	Books & Reference	6-Jun-18	3.2.1	4.0 and up
+FBReader: Favorite Book Reader	BOOKS_AND_REFERENCE	4.5	203130	Varies with device	10,000,000+	Free	0	Everyone	Books & Reference	28-Jun-18	Varies with device	Varies with device
+English Grammar Complete Handbook	BOOKS_AND_REFERENCE	4.6	1435	2.8M	500,000+	Free	0	Everyone	Books & Reference	21-Jan-18	1	4.0 and up
+Free Books - Spirit Fanfiction and Stories	BOOKS_AND_REFERENCE	4.8	116507	5.0M	1,000,000+	Free	0	Teen	Books & Reference	1-Aug-18	2.0.075	4.0.3 and up
+Google Play Books	BOOKS_AND_REFERENCE	3.9	1433233	Varies with device	1,000,000,000+	Free	0	Teen	Books & Reference	3-Aug-18	Varies with device	Varies with device
+AlReader -any text book reader	BOOKS_AND_REFERENCE	4.6	90468	5.9M	5,000,000+	Free	0	Everyone	Books & Reference	27-May-18	1.91180527	2.3 and up
+Offline English Dictionary	BOOKS_AND_REFERENCE	4.2	860	13M	100,000+	Free	0	Everyone	Books & Reference	17-Jul-18	1	4.0.3 and up
+Oxford Dictionary of English : Free	BOOKS_AND_REFERENCE	4.1	363934	7.1M	10,000,000+	Free	0	Everyone	Books & Reference	11-Jul-18	9.1.363	4.1 and up
+Offline: English to Tagalog Dictionary	BOOKS_AND_REFERENCE	4.7	967	6.7M	500,000+	Free	0	Everyone	Books & Reference	4-Aug-18	1.1.6	4.0.3 and up
+Spanish English Translator	BOOKS_AND_REFERENCE	4.2	87873	Varies with device	10,000,000+	Free	0	Teen	Books & Reference	28-May-18	Varies with device	Varies with device
+FamilySearch Tree	BOOKS_AND_REFERENCE	4.3	17506	17M	1,000,000+	Free	0	Everyone	Books & Reference	20-Jul-18	2.3.18	4.1 and up
+Cloud of Books	BOOKS_AND_REFERENCE	3.3	1862	19M	1,000,000+	Free	0	Everyone	Books & Reference	27-Apr-18	2.2.5	4.1 and up
+Recipes of Prophetic Medicine for free	BOOKS_AND_REFERENCE	4.6	2084	6.7M	500,000+	Free	0	Everyone	Books & Reference	17-May-18	15	2.3 and up
+ReadEra – free ebook reader	BOOKS_AND_REFERENCE	4.8	47303	21M	1,000,000+	Free	0	Everyone	Books & Reference	2-Jun-18	18.05.31+530	4.1 and up
+NOOK App for NOOK Devices	BOOKS_AND_REFERENCE	4.7	19080	Varies with device	500,000+	Free	0	Everyone	Books & Reference	25-Apr-18	Varies with device	Varies with device
+Anonymous caller detection	BOOKS_AND_REFERENCE	NaN	161	2.7M	10,000+	Free	0	Everyone	Books & Reference	13-Jul-18	1	2.3 and up
+Ebook Reader	BOOKS_AND_REFERENCE	4.1	85842	37M	5,000,000+	Free	0	Everyone	Books & Reference	25-Jun-18	5.0.6	4.0 and up
+Litnet - E-books	BOOKS_AND_REFERENCE	4.6	7831	15M	100,000+	Free	0	Teen	Books & Reference	4-Jul-18	1.2.3	4.0 and up
+Read books online	BOOKS_AND_REFERENCE	4.1	91615	23M	5,000,000+	Free	0	Mature 17+	Books & Reference	29-Jun-18	3.12	4.1 and up
+English to Urdu Dictionary	BOOKS_AND_REFERENCE	4.6	4620	19M	500,000+	Free	0	Everyone	Books & Reference	23-Nov-17	2	4.0.3 and up
+eBoox: book reader fb2 epub zip	BOOKS_AND_REFERENCE	4.7	21336	23M	1,000,000+	Free	0	Everyone	Books & Reference	20-Jun-18	1.28	3.0 and up
+Uber Driver	BUSINESS	4.4	1254730	Varies with device	10,000,000+	Free	0	Everyone	Business	3-Aug-18	Varies with device	Varies with device
+ADP Mobile Solutions	BUSINESS	4.3	85185	29M	5,000,000+	Free	0	Everyone	Business	17-Jul-18	3.4.2	5.0 and up
+Snag - Jobs Hiring Now	BUSINESS	4.3	32584	Varies with device	1,000,000+	Free	0	Everyone	Business	4-May-18	Varies with device	Varies with device
+Docs To Go™ Free Office Suite	BUSINESS	4.1	217730	Varies with device	50,000,000+	Free	0	Everyone	Business	2-Apr-18	Varies with device	Varies with device
+Google My Business	BUSINESS	4.4	70991	Varies with device	5,000,000+	Free	0	Everyone	Business	24-Jul-18	2.19.0.204537701	4.4 and up
+OfficeSuite : Free Office + PDF Editor	BUSINESS	4.3	1002861	35M	100,000,000+	Free	0	Everyone	Business	2-Aug-18	9.7.14188	4.1 and up
+USPS MOBILE®	BUSINESS	3.9	16589	9.1M	1,000,000+	Free	0	Everyone	Business	14-Jun-18	4.9.10	4.0.3 and up
+Job Search by ZipRecruiter	BUSINESS	4.8	148945	25M	1,000,000+	Free	0	Everyone	Business	19-Jul-18	5.2.8	5.0 and up
+Curriculum vitae App CV Builder Free Resume Maker	BUSINESS	4.5	4458	3.9M	500,000+	Free	0	Everyone	Business	8-Jul-18	3.3	4.1 and up
+Google Primer	BUSINESS	4.4	62272	18M	10,000,000+	Free	0	Everyone	Business	26-Jun-18	3.550.2	4.1 and up
+Alba Heaven - Alvarez Job Portal Services	BUSINESS	4	8941	12M	5,000,000+	Free	0	Everyone	Business	31-Jul-18	4.6.30	4.0.3 and up
+SuperLivePro	BUSINESS	4.3	46353	21M	1,000,000+	Free	0	Everyone	Business	13-Apr-16	2.8	1.5 and up
+Facebook Pages Manager	BUSINESS	4	1279184	Varies with device	50,000,000+	Free	0	Everyone	Business	2-Aug-18	Varies with device	Varies with device
+OfficeSuite Pro + PDF (Trial)	BUSINESS	4.2	88073	Varies with device	10,000,000+	Free	0	Everyone	Business	9-Jul-18	Varies with device	Varies with device
+My Space - Employment Center	BUSINESS	4.5	67000	Varies with device	1,000,000+	Free	0	Everyone	Business	17-Jul-18	Varies with device	4.3 and up
+Box	BUSINESS	4.2	159872	Varies with device	10,000,000+	Free	0	Everyone	Business	31-Jul-18	Varies with device	Varies with device
+Polaris Office for LG	BUSINESS	4.2	30847	55M	5,000,000+	Free	0	Everyone	Business	8-Feb-18	7.3.21	4.1 and up
+Call Blocker	BUSINESS	4.6	188841	3.2M	5,000,000+	Free	0	Everyone	Business	21-Jun-18	1.1.13	4.0 and up
+Jobs in Alabama - Jobs in Alba	BUSINESS	4.1	11622	Varies with device	5,000,000+	Free	0	Everyone	Business	26-Jul-18	Varies with device	Varies with device
+Square Point of Sale - POS	BUSINESS	4.6	95912	Varies with device	5,000,000+	Free	0	Everyone	Business	30-Jul-18	Varies with device	Varies with device
+Plugin:AOT v5.0	BUSINESS	3.1	4034	23k	100,000+	Free	0	Everyone	Business	11-Sep-15	3.0.1.11 (Build 311)	2.2 and up
+Kariyer.net	BUSINESS	3.9	45964	16M	1,000,000+	Free	0	Everyone	Business	18-Jul-18	5.1.5	4.1 and up
+SEEK Job Search	BUSINESS	4.3	14955	Varies with device	1,000,000+	Free	0	Everyone	Business	30-Jul-18	Varies with device	Varies with device
+Become a Job - Find a job or advertise	BUSINESS	4.1	6903	14M	1,000,000+	Free	0	Everyone	Business	10-Jul-18	2.3.6	4.1 and up
+ZOOM Cloud Meetings	BUSINESS	4.4	31614	37M	10,000,000+	Free	0	Everyone	Business	20-Jul-18	4.1.28165.0716	4.0 and up
+Easy Installer - Apps On SD	BUSINESS	4.1	23055	Varies with device	5,000,000+	Free	0	Everyone	Business	8-Jun-18	Varies with device	Varies with device
+Facebook Ads Manager	BUSINESS	4.1	19023	Varies with device	1,000,000+	Free	0	Everyone	Business	1-Aug-18	99.0.0.35.75	4.1 and up
+IndiaMART: Search Products, Buy, Sell & Trade	BUSINESS	4.5	207372	11M	5,000,000+	Free	0	Everyone	Business	2-Aug-18	12.2.4	4.0 and up
+ViettelPost express delivery	BUSINESS	4.4	1225	25M	100,000+	Free	0	Everyone	Business	1-Aug-18	1.0.6.8	4.1 and up
+MyASUS - Service Center	BUSINESS	4.4	380837	7.3M	10,000,000+	Free	0	Everyone	Business	4-Jul-18	3.4.5	4.2 and up
+GANMA! - All original stories free of charge for all original comics	COMICS	4.7	57106	27M	1,000,000+	Free	0	Teen	Comics	23-Jul-18	2.11.3	4.1 and up
+Röhrich Werner Soundboard	COMICS	4.7	2249	32M	500,000+	Free	0	Everyone	Comics	16-Nov-17	1.08	4.0.3 and up
+Unicorn Pokez - Color By Number	COMICS	4.8	516	12M	50,000+	Free	0	Everyone	Comics;Creativity	3-Aug-18	1.0.6	4.4 and up
+MangaToon - Comics updated Daily	COMICS	3.9	834	15M	50,000+	Free	0	Mature 17+	Comics	1-Aug-18	1.0.8	4.1 and up
+Manga Net – Best Online Manga Reader	COMICS	4.1	1010	11M	50,000+	Free	0	Mature 17+	Comics	7-Jul-18	1.5	4.1 and up
+Manga Rock - Best Manga Reader	COMICS	4.4	238970	28M	1,000,000+	Free	0	Teen	Comics	9-Jul-18	3.4.3_world	5.0 and up
+Manga - read Thai translation	COMICS	4.6	302	2.2M	10,000+	Free	0	Teen	Comics	3-Jul-18	1	4.0 and up
+The Vietnam Story - Fun Stories	COMICS	4.5	438	3.4M	10,000+	Free	0	Everyone	Comics	27-Dec-17	1	2.3 and up
+Dragon Ball Wallpaper - Ringtones	COMICS	4.7	73	8.3M	10,000+	Free	0	Everyone	Comics	23-Jul-18	1.9	4.0.3 and up
+Funny Jokes Photos	COMICS	4.4	39	4.3M	10,000+	Free	0	Everyone 10+	Comics	3-Jul-18	1.1	4.2 and up
+Truyện Vui Tý Quậy	COMICS	4.5	144	4.7M	10,000+	Free	0	Everyone	Comics	19-Jul-18	3	4.0.3 and up
+Comic Es - Shojo manga / love comics free of charge ♪ ♪	COMICS	3.9	2181	10M	100,000+	Free	0	Teen	Comics	5-Mar-18	1.2.12	4.0.3 and up
+comico Popular Original Cartoon Updated Everyday Comico	COMICS	3.2	93965	15M	5,000,000+	Free	0	Teen	Comics	3-Jul-18	6.3.0	4.0.3 and up
+Daily Manga - Comic & Webtoon	COMICS	3.2	1446	7.1M	100,000+	Free	0	Mature 17+	Comics	18-May-18	1	4.0.3 and up
+漫咖 Comics - Manga,Novel and Stories	COMICS	4.1	12088	21M	1,000,000+	Free	0	Mature 17+	Comics	6-Jul-18	2.3.1	4.0.3 and up
+Emmanuella Funny Videos 2018	COMICS	4.5	314	6.1M	100,000+	Free	0	Everyone	Comics	23-May-18	3.1.0	4.1 and up
+DC Comics	COMICS	4.2	25671	Varies with device	1,000,000+	Free	0	Teen	Comics	5-Jun-18	Varies with device	Varies with device
+Manga Zero - Japanese cartoon and comic reader	COMICS	4.2	15194	15M	1,000,000+	Free	0	Teen	Comics	19-Jul-18	4.7.3	4.2 and up
+Marvel Unlimited	COMICS	3.7	22551	11M	1,000,000+	Free	0	Teen	Comics	24-Jul-18	3.16.0	4.4 and up
+Tapas – Comics, Novels, and Stories	COMICS	4.5	29839	29M	1,000,000+	Free	0	Teen	Comics	31-Jul-18	4.1.0	4.4 and up
+Children's cartoons (Mithu-Mina-Raju)	COMICS	4.6	279	3.3M	100,000+	Free	0	Everyone	Comics	18-Dec-17	1.6	4.0 and up
+Narrator's Voice	COMICS	4.5	564387	Varies with device	5,000,000+	Free	0	Everyone	Comics	5-Jul-18	Varies with device	Varies with device
+【Ranobbe complete free】 Novelba - Free app that you can read and write novels	COMICS	NaN	1330	22M	50,000+	Free	0	Everyone	Comics	3-Jul-18	6.1.1	4.2 and up
+Faustop Sounds	COMICS	4.7	1677	40M	100,000+	Free	0	Everyone	Comics	26-May-18	1.7.7	4.1 and up
+Manga Mania - Best online manga reader	COMICS	4.4	757	10M	10,000+	Free	0	Teen	Comics	24-May-18	1	4.1 and up
+Hojiboy Tojiboyev Life Hacks	COMICS	5	15	37M	1,000+	Free	0	Everyone	Comics	26-Jun-18	2	4.0.3 and up
+Perfect Viewer	COMICS	4.4	51981	Varies with device	5,000,000+	Free	0	Everyone	Comics	1-Aug-18	4.2.0.2	2.3 and up
+Best Wallpapers Backgrounds(100,000+ 4K HD)	COMICS	4.7	3596	7.8M	10,000+	Free	0	Teen	Comics	16-Jun-18	1.01	4.0.3 and up
+think Comics	COMICS	4.4	1006	19M	50,000+	Free	0	Everyone	Comics	3-Aug-18	2.3.3	4.0.3 and up
+Memes Button	COMICS	4.4	5968	5.7M	1,000,000+	Free	0	Everyone	Comics	28-May-18	1.4	4.0 and up
+Messenger Lite: Free Calls & Messages	COMMUNICATION	4.4	1429035	Varies with device	100,000,000+	Free	0	Everyone	Communication	25-Jul-18	37.0.0.7.163	2.3 and up
+Gmail	COMMUNICATION	4.3	4604324	Varies with device	1,000,000,000+	Free	0	Everyone	Communication	2-Aug-18	Varies with device	Varies with device
+Hangouts	COMMUNICATION	4	3419249	Varies with device	1,000,000,000+	Free	0	Everyone	Communication	21-Jul-18	Varies with device	Varies with device
+Viber Messenger	COMMUNICATION	4.3	11334799	Varies with device	500,000,000+	Free	0	Everyone	Communication	18-Jul-18	Varies with device	Varies with device
+My Tele2	COMMUNICATION	4.3	158679	8.8M	5,000,000+	Free	0	Everyone	Communication	3-Aug-18	2.4.1	4.4 and up
+Firefox Browser fast & private	COMMUNICATION	4.4	3075028	Varies with device	100,000,000+	Free	0	Everyone	Communication	10-Jul-18	Varies with device	Varies with device
+Yahoo Mail – Stay Organized	COMMUNICATION	4.3	4187998	16M	100,000,000+	Free	0	Everyone	Communication	18-Jul-18	5.29.3	4.4 and up
+imo beta free calls and text	COMMUNICATION	4.3	659395	11M	100,000,000+	Free	0	Everyone	Communication	7-Jun-18	9.8.000000010492	4.0 and up
+imo free video calls and chat	COMMUNICATION	4.3	4785892	11M	500,000,000+	Free	0	Everyone	Communication	8-Jun-18	9.8.000000010501	4.0 and up
+Contacts	COMMUNICATION	4.3	66602	Varies with device	50,000,000+	Free	0	Everyone	Communication	26-Jun-18	2.8.4.201036949	5.0 and up
+Call Free – Free Call	COMMUNICATION	4.3	30209	15M	5,000,000+	Free	0	Everyone	Communication	28-Jul-18	1.3.4	4.1 and up
+Web Browser & Explorer	COMMUNICATION	4	36901	6.6M	5,000,000+	Free	0	Everyone	Communication	4-Jul-18	11.8.6	4.0.3 - 7.1.1
+Opera Mini - fast web browser	COMMUNICATION	4.5	5149854	Varies with device	100,000,000+	Free	0	Everyone	Communication	19-Jul-18	Varies with device	Varies with device
+Browser 4G	COMMUNICATION	4.3	192948	6.6M	10,000,000+	Free	0	Everyone	Communication	19-Jun-18	24.6.6	4.0.3 - 7.1.1
+MegaFon Dashboard	COMMUNICATION	3.7	99559	Varies with device	10,000,000+	Free	0	Everyone	Communication	30-Jul-18	Varies with device	Varies with device
+ZenUI Dialer & Contacts	COMMUNICATION	4.5	437674	Varies with device	10,000,000+	Free	0	Everyone	Communication	1-Aug-18	Varies with device	Varies with device
+Cricket Visual Voicemail	COMMUNICATION	3.9	13698	5.1M	10,000,000+	Free	0	Everyone	Communication	2-Jul-18	3.2.0.100171	4.1 and up
+Opera Browser: Fast and Secure	COMMUNICATION	4.4	2473509	Varies with device	100,000,000+	Free	0	Everyone	Communication	31-Jul-18	47.1.2249.129326	Varies with device
+TracFone My Account	COMMUNICATION	3.6	20769	18M	1,000,000+	Free	0	Everyone	Communication	11-Jul-18	R6.0.3	4.1 and up
+Firefox Focus: The privacy browser	COMMUNICATION	4.4	36880	4.0M	1,000,000+	Free	0	Everyone	Communication	6-Jul-18	5.2	5.0 and up
+Google Voice	COMMUNICATION	4.2	171031	Varies with device	10,000,000+	Free	0	Everyone	Communication	3-Aug-18	Varies with device	Varies with device
+Chrome Dev	COMMUNICATION	4.4	63543	Varies with device	5,000,000+	Free	0	Everyone	Communication	2-Aug-18	69.0.3497.24	Varies with device
+Xperia Link™	COMMUNICATION	4.1	45487	Varies with device	10,000,000+	Free	0	Everyone	Communication	27-Oct-16	Varies with device	Varies with device
+TouchPal Keyboard - Fun Emoji & Android Keyboard	COMMUNICATION	4.4	615381	37M	10,000,000+	Free	0	Mature 17+	Communication	2-Aug-18	6.7.9.1	4.0.3 and up
+Who	COMMUNICATION	4.3	2451083	Varies with device	100,000,000+	Free	0	Teen	Communication	3-Aug-18	Varies with device	Varies with device
+Skype Lite - Free Video Call & Chat	COMMUNICATION	4.2	33053	22M	5,000,000+	Free	0	Everyone	Communication	31-Jul-18	1.60.0.31354-release	4.0.3 and up
+WeChat	COMMUNICATION	4.2	5387333	Varies with device	100,000,000+	Free	0	Everyone	Communication	31-Jul-18	Varies with device	Varies with device
+UC Browser Mini -Tiny Fast Private & Secure	COMMUNICATION	4.4	3648120	3.3M	100,000,000+	Free	0	Teen	Communication	18-Jul-18	11.4.0	4.0 and up
+WhatsApp Business	COMMUNICATION	4.4	136662	32M	10,000,000+	Free	0	Everyone	Communication	30-Jul-18	2.18.116	4.0.3 and up
+My magenta	COMMUNICATION	3.9	42370	37M	1,000,000+	Free	0	Everyone	Communication	25-Jun-18	7.5.1	5.0 and up
+Moco - Chat, Meet People	DATING	4.2	313724	Varies with device	10,000,000+	Free	0	Mature 17+	Dating	4-Aug-18	2.6.141	4.1 and up
+CMB Free Dating App	DATING	4	48845	40M	1,000,000+	Free	0	Mature 17+	Dating	1-Aug-18	4.19.0.2320	4.4 and up
+Hot or Not - Find someone right now	DATING	4.1	305708	Varies with device	10,000,000+	Free	0	Mature 17+	Dating	2-Aug-18	Varies with device	Varies with device
+eharmony - Online Dating App	DATING	3.1	31320	53M	5,000,000+	Free	0	Mature 17+	Dating	30-Jul-18	6.6.5	4.1 and up
+Free Dating App & Flirt Chat - Match with Singles	DATING	4.4	172460	3.1M	5,000,000+	Free	0	Mature 17+	Dating	4-Aug-18	1.639	4.0 and up
+Chispa, the Dating App for Latino, Latina Singles	DATING	4.2	4195	24M	100,000+	Free	0	Mature 17+	Dating	25-Jul-18	1.6.1	4.4 and up
+Clover Dating App	DATING	4.1	11633	23M	500,000+	Free	0	Mature 17+	Dating	24-Jul-18	2.5.1	4.1 and up
+Black People Meet Singles Date	DATING	3.9	10212	5.0M	1,000,000+	Free	0	Mature 17+	Dating	25-Jul-18	1.9.7	4.4 and up
+Mingle2 - Free Online Dating & Singles Chat Rooms	DATING	4.3	37053	44M	1,000,000+	Free	0	Mature 17+	Dating	3-Aug-18	4.4B	4.1 and up
+Free Dating App & Flirt Chat - Cheers	DATING	4.4	667	27M	10,000+	Free	0	Mature 17+	Dating	3-Aug-18	1.308.us	4.1 and up
+stranger chat - anonymous chat	DATING	3.5	13202	6.1M	1,000,000+	Free	0	Mature 17+	Dating	7-Jul-18	2.4.1	4.1 and up
+Blendr - Chat, Flirt & Meet	DATING	4	28671	Varies with device	1,000,000+	Free	0	Mature 17+	Dating	1-Aug-18	Varies with device	Varies with device
+Free Dating Hook Up Messenger	DATING	3.3	1157	21M	100,000+	Free	0	Mature 17+	Dating	27-Jan-17	5.0.1	4.2 and up
+Find Real Love — YouLove Premium Dating	DATING	4.5	212626	11M	10,000,000+	Free	0	Mature 17+	Dating	31-Jul-18	4.17.2	4.1 and up
+Once - Quality Matches Every day	DATING	4.4	222888	21M	1,000,000+	Free	0	Mature 17+	Dating	17-Jul-18	2.45	4.1 and up
+BLK - Swipe. Match. Chat.	DATING	4.1	2067	24M	100,000+	Free	0	Mature 17+	Dating	25-Jul-18	1.6.1	4.4 and up
+Cougar Dating Life : Date Older Women Sugar Mummy	DATING	3.9	1643	31M	500,000+	Free	0	Mature 17+	Dating	3-Jul-18	4.5.5	4.1 and up
+Howlr	DATING	3.9	105	27M	5,000+	Free	0	Mature 17+	Dating	19-Jun-18	1.0.4	4.4 and up
+Stranger Chat & Date	DATING	3.6	3414	6.2M	500,000+	Free	0	Mature 17+	Dating	6-Jun-18	1.2.1	4.1 and up
+Free Dating & Flirt Chat - Choice of Love	DATING	4	42194	Varies with device	5,000,000+	Free	0	Mature 17+	Dating	24-Jul-18	Varies with device	Varies with device
+ABC Preschool Free	EDUCATION	3.8	27572	25M	5,000,000+	Free	0	Everyone	Education;Education	25-Oct-17	3	2.3 and up
+PINKFONG Baby Shark	EDUCATION	4.5	10852	18M	1,000,000+	Free	0	Everyone	Education	28-Nov-17	10	4.1 and up
+English words application mikan	EDUCATION	4.7	9888	Varies with device	500,000+	Free	0	Everyone	Education	30-Jul-18	Varies with device	4.1 and up
+Learn English for beginners	EDUCATION	4.5	1929	2.5M	500,000+	Free	0	Everyone	Education	28-Sep-17	1.1	2.3 and up
+Listen and learn English in seven days	EDUCATION	4.3	1516	3.9M	100,000+	Free	0	Everyone	Education	28-Jul-18	3.1	4.1 and up
+Lumosity: #1 Brain Games & Cognitive Training App	EDUCATION	4.2	215301	Varies with device	10,000,000+	Free	0	Everyone	Education	1-Aug-18	Varies with device	Varies with device
+Learn English from Persian: Persian to English	EDUCATION	4.3	423	21M	100,000+	Free	0	Everyone	Education	3-Apr-18	6	4.0.3 and up
+English with Lingualeo	EDUCATION	4.7	254519	27M	5,000,000+	Free	0	Everyone	Education	20-Jul-18	2.8.1	4.1 and up
+Learn languages, grammar & vocabulary with Memrise	EDUCATION	4.7	1107903	Varies with device	10,000,000+	Free	0	Everyone	Education	2-Aug-18	Varies with device	Varies with device
+Khan Academy	EDUCATION	4.6	85375	21M	5,000,000+	Free	0	Everyone	Education	27-Jul-18	5.0.0	4.1 and up
+TED	EDUCATION	4.6	181893	18M	10,000,000+	Free	0	Everyone 10+	Education	27-Jul-18	3.2.5	4.1 and up
+Quizlet: Learn Languages & Vocab with Flashcards	EDUCATION	4.6	211856	Varies with device	10,000,000+	Free	0	Everyone	Education	1-Aug-18	Varies with device	Varies with device
+Udemy - Online Courses	EDUCATION	4.5	99020	18M	1,000,000+	Free	0	Everyone	Education	2-Aug-18	5.0.4	5.0 and up
+Coursera: Online courses	EDUCATION	4.4	90481	Varies with device	5,000,000+	Free	0	Everyone	Education	27-Jul-18	Varies with device	Varies with device
+edX - Online Courses by Harvard, MIT & more	EDUCATION	4.6	32381	10M	1,000,000+	Free	0	Everyone 10+	Education	15-Jul-18	2.15.1	4.1 and up
+Elevate - Brain Training Games	EDUCATION	4.5	248912	Varies with device	5,000,000+	Free	0	Everyone	Education	30-Jul-18	Varies with device	Varies with device
+NeuroNation - Focus and Brain Training	EDUCATION	4.5	248555	Varies with device	5,000,000+	Free	0	Everyone	Education;Brain Games	23-May-18	Varies with device	4.0.3 and up
+Lumosity: #1 Brain Games & Cognitive Training App	EDUCATION	4.2	215301	Varies with device	10,000,000+	Free	0	Everyone	Education	1-Aug-18	Varies with device	Varies with device
+Peak – Brain Games & Training	EDUCATION	4.4	272145	Varies with device	10,000,000+	Free	0	Everyone	Education;Brain Games	3-Aug-18	3.14.15	5.0 and up
+Memorado - Brain Games	EDUCATION	4.4	56897	97M	1,000,000+	Free	0	Everyone	Education;Brain Games	16-Jan-17	1.10.0	4.1 and up
+YouTube Kids	ENTERTAINMENT	4.5	470089	Varies with device	50,000,000+	Free	0	Everyone	Entertainment;Music & Video	3-Aug-18	3.43.3	4.1 and up
+Mobile TV	ENTERTAINMENT	3.5	10939	4.6M	10,000,000+	Free	0	Everyone	Entertainment	28-Apr-16	2.05.0010	5.0 and up
+TV+	ENTERTAINMENT	4.2	98509	Varies with device	5,000,000+	Free	0	Everyone	Entertainment	28-Jun-18	Varies with device	Varies with device
+Digital TV	ENTERTAINMENT	3.1	5241	Varies with device	5,000,000+	Free	0	Everyone	Entertainment	6-Jun-18	Varies with device	6.0 and up
+Motorola Spotlight Player™	ENTERTAINMENT	4.6	22508	3.3M	10,000,000+	Free	0	Everyone	Entertainment	16-Jul-15	v1.8b22p13	4.2 and up
+Vigo Lite	ENTERTAINMENT	4.2	10291	6.5M	5,000,000+	Free	0	Teen	Entertainment	4-Aug-18	3.7.3	4.0.3 and up
+Google Play Games	ENTERTAINMENT	4.3	7165362	Varies with device	1,000,000,000+	Free	0	Teen	Entertainment	16-Jul-18	Varies with device	Varies with device
+Hotstar	ENTERTAINMENT	4.3	4885646	Varies with device	100,000,000+	Free	0	Teen	Entertainment	3-Aug-18	Varies with device	Varies with device
+Peers.TV: broadcast TV channels First, Match TV, TNT ...	ENTERTAINMENT	4.1	141980	Varies with device	5,000,000+	Free	0	Teen	Entertainment	30-Jul-18	Varies with device	Varies with device
+The green alien dance	ENTERTAINMENT	3.8	6979	12M	1,000,000+	Free	0	Everyone	Entertainment	5-Jul-18	1.03	4.0 and up
+Spectrum TV	ENTERTAINMENT	3.4	46618	Varies with device	5,000,000+	Free	0	Teen	Entertainment	19-Jul-18	Varies with device	Varies with device
+H TV	ENTERTAINMENT	4.3	103078	5.6M	5,000,000+	Free	0	Everyone	Entertainment	5-Jul-18	4.6.2	2.3.3 and up
+StarTimes - Live International Champions Cup	ENTERTAINMENT	4.4	17682	9.7M	1,000,000+	Free	0	Everyone	Entertainment	3-Aug-18	5.2	4.0.3 and up
+Cinematic Cinematic	ENTERTAINMENT	4.4	37000	15M	1,000,000+	Free	0	Mature 17+	Entertainment	21-Jun-18	4.0.5	4.1 and up
+MEGOGO - Cinema and TV	ENTERTAINMENT	4	175528	Varies with device	10,000,000+	Free	0	Everyone	Entertainment	3-Aug-18	Varies with device	Varies with device
+Talking Angela	ENTERTAINMENT	3.7	1828284	52M	100,000,000+	Free	0	Everyone	Entertainment	12-Jul-18	2.8.2	4.1 and up
+DStv Now	ENTERTAINMENT	3.9	34923	Varies with device	5,000,000+	Free	0	Teen	Entertainment	27-Jul-18	Varies with device	Varies with device
+ivi - movies and TV shows in HD	ENTERTAINMENT	4.5	684116	Varies with device	10,000,000+	Free	0	Teen	Entertainment	31-Jul-18	Varies with device	4.2 and up
+Radio Javan	ENTERTAINMENT	4.4	46916	4.5M	1,000,000+	Free	0	Everyone	Entertainment	18-Jul-18	7.3	4.2 and up
+Viki: Asian TV Dramas & Movies	ENTERTAINMENT	4.3	407698	Varies with device	10,000,000+	Free	0	Teen	Entertainment	27-Jul-18	Varies with device	Varies with device
+Fever	EVENTS	4	20611	12M	1,000,000+	Free	0	Teen	Events	18-Jul-18	4.3.6	4.1 and up
+DroidAdmin for Android - Advice	EVENTS	4.2	811	2.8M	10,000+	Free	0	Everyone	Events	29-May-18	3.8	4.0 and up
+SeatGeek Tickets to Sports, Concerts, Broadway	EVENTS	4.4	15558	26M	1,000,000+	Free	0	Everyone	Events	3-Aug-18	2018.07.31229	5.0 and up
+my4D	EVENTS	4.6	573	8.7M	100,000+	Free	0	Everyone	Events	12-Jul-18	1.4	4.2 and up
+VAN NIAN 2018 - Vietnamese Calendar	EVENTS	NaN	37	16M	10,000+	Free	0	Everyone	Events	27-Nov-17	1	4.0 and up
+Vivid Seats  Event Tickets	EVENTS	4.6	8232	53M	1,000,000+	Free	0	Everyone	Events	31-Jul-18	Varies with device	5.0 and up
+Name days	EVENTS	4.1	3089	Varies with device	100,000+	Free	0	Everyone	Events	12-Jul-18	Varies with device	Varies with device
+LBB - Find New & Unique Things To Do Around You	EVENTS	4.6	3874	14M	100,000+	Free	0	Everyone	Events	27-Jul-18	4.0.19	4.2 and up
+Happy Birthday Songs Offline	EVENTS	4.4	464	8.9M	100,000+	Free	0	Everyone	Events	4-Dec-17	1.3	4.1 and up
+Series Valley of the Wolves full of part	EVENTS	4.6	731	11M	50,000+	Free	0	Everyone	Events	24-Dec-17	2	4.0 and up
+Mummatikabalkuragi	EVENTS	4.9	69	334k	1,000+	Free	0	Teen	Events	22-Jul-18	1	4.0 and up
+Gametime - Tickets to Sports, Concerts, Theater	EVENTS	4.5	8800	24M	1,000,000+	Free	0	Everyone	Events	17-Jul-18	11.1.1	5.0 and up
+PTI Flex Maker, Photo Frame Editor & Songs 2018	EVENTS	4.6	99	13M	10,000+	Free	0	Everyone	Events	6-Jul-18	1.1	4.2 and up
+Wipe out	EVENTS	4.7	30	Varies with device	500+	Free	0	Teen	Events	23-May-18	Varies with device	Varies with device
+Birthdays & Other Events	EVENTS	4.3	456	2.8M	50,000+	Free	0	Everyone	Events	21-Jun-18	1.75	2.3.3 and up
+Sarajevo Film Festival - Official	EVENTS	NaN	6	9.7M	100+	Free	0	Everyone 10+	Events	31-Jul-18	2.0.1	4.4W and up
+Summer Madness	EVENTS	NaN	4	1.4M	100+	Free	0	Everyone	Events	26-Jul-18	1.107	4.0 and up
+Events High - Meet Your City!	EVENTS	4.2	3200	Varies with device	100,000+	Free	0	Everyone 10+	Events	23-Jun-18	Varies with device	Varies with device
+vide-greniers.org	EVENTS	4.3	5839	3.5M	100,000+	Free	0	Everyone	Events	8-Nov-16	16.11.8	2.3.3 and up
+SUMMER SONIC app	EVENTS	5	4	61M	500+	Free	0	Everyone	Events	24-Jul-18	1	4.4 and up
+Nedbank Money	FINANCE	4.2	6076	32M	500,000+	Free	0	Everyone	Finance	28-Jul-18	4.1.1-0-prod	4.2 and up
+SCB EASY	FINANCE	4.2	112656	93M	5,000,000+	Free	0	Everyone	Finance	19-Jul-18	3.9.0	4.1 and up
+CASHIER	FINANCE	3.3	335738	Varies with device	10,000,000+	Free	0	Everyone	Finance	3-May-18	Varies with device	Varies with device
+Rabo Banking	FINANCE	3.4	31906	Varies with device	1,000,000+	Free	0	Everyone	Finance	19-Jul-18	5.16.0	4.0 and up
+Capitec Remote Banking	FINANCE	4.3	20672	Varies with device	1,000,000+	Free	0	Everyone	Finance	8-May-18	Varies with device	Varies with device
+Itau bank	FINANCE	4.2	957973	40M	10,000,000+	Free	0	Everyone	Finance	30-Jul-18	6.5.7	4.2 and up
+Nubank	FINANCE	4.7	130582	24M	5,000,000+	Free	0	Everyone	Finance	2-Aug-18	Varies with device	Varies with device
+The Societe Generale App	FINANCE	4.1	31218	Varies with device	1,000,000+	Free	0	Everyone	Finance	31-Jul-18	Varies with device	Varies with device
+IKO	FINANCE	4.7	167168	20M	1,000,000+	Free	0	Everyone	Finance	4-Jul-18	3.115.27	4.1 and up
+Cash App	FINANCE	4	34428	15M	10,000,000+	Free	0	Everyone	Finance	2-Aug-18	2.31.1	5.0 and up
+Standard Bank / Stanbic Bank	FINANCE	3.6	15247	28M	1,000,000+	Free	0	Everyone	Finance	13-Jul-18	3.0.5	4.0.3 and up
+Bualuang mBanking	FINANCE	4	48445	10M	5,000,000+	Free	0	Everyone	Finance	16-Jul-18	2.6.0	4.0.3 and up
+Intesa Sanpaolo Mobile	FINANCE	3.6	35518	Varies with device	1,000,000+	Free	0	Everyone	Finance	2-Jul-18	Varies with device	Varies with device
+UBA Mobile Banking	FINANCE	4.3	12185	Varies with device	1,000,000+	Free	0	Everyone	Finance	8-Jun-18	Varies with device	Varies with device
+BBVA Spain	FINANCE	4.2	36746	Varies with device	5,000,000+	Free	0	Everyone	Finance	24-Jul-18	Varies with device	Varies with device
+MyMo by GSB	FINANCE	4.2	21996	14M	1,000,000+	Free	0	Everyone	Finance	19-Jul-18	1.17.2	4.0.3 and up
+VTB-Online	FINANCE	4.1	138371	Varies with device	5,000,000+	Free	0	Everyone	Finance	2-Aug-18	Varies with device	4.0.3 and up
+Ecobank Mobile Banking	FINANCE	4	12073	42M	1,000,000+	Free	0	Everyone	Finance	25-May-18	3.3	4.2 and up
+Banorte Movil	FINANCE	4.1	111632	65M	1,000,000+	Free	0	Everyone	Finance	9-Jun-18	5.10.1.40699	4.4 and up
+Wells Fargo Mobile	FINANCE	4.4	250706	37M	10,000,000+	Free	0	Everyone	Finance	31-Jul-18	6.8.0.109	5.0 and up
+DELISH KITCHEN - FREE recipe movies make food fun and easy!	FOOD_AND_DRINK	4.6	32997	13M	1,000,000+	Free	0	Everyone	Food & Drink	4-Aug-18	2.2.7	4.1 and up
+Sumine side dish - dish recipe side dish	FOOD_AND_DRINK	NaN	82	4.9M	10,000+	Free	0	Everyone	Food & Drink	23-Jun-18	1.1	4.1 and up
+Easy Recipes	FOOD_AND_DRINK	4.7	2707	8.9M	100,000+	Free	0	Everyone	Food & Drink	15-May-18	2.12	4.0.3 and up
+Delicious Recipes	FOOD_AND_DRINK	4.7	129737	Varies with device	1,000,000+	Free	0	Teen	Food & Drink	3-Aug-18	Varies with device	Varies with device
+Tastely	FOOD_AND_DRINK	4.7	611136	19M	10,000,000+	Free	0	Everyone	Food & Drink	13-Jul-18	3.2.0d	4.0.3 and up
+Pastry & Cooking (Without Net)	FOOD_AND_DRINK	4.7	6118	Varies with device	1,000,000+	Free	0	Everyone	Food & Drink	7-Jul-18	Varies with device	Varies with device
+Frigo Magic: Easy recipe idea and anti-waste	FOOD_AND_DRINK	4.1	2473	14M	500,000+	Free	0	Everyone	Food & Drink	28-Jul-18	3.1.5	4.4 and up
+McDonald's - McDonald's Japan	FOOD_AND_DRINK	3.4	109784	64M	10,000,000+	Free	0	Everyone	Food & Drink	3-Aug-18	4.0.30	4.0.3 and up
+Debonairs Pizza	FOOD_AND_DRINK	3.8	3320	8.4M	500,000+	Free	0	Everyone	Food & Drink	4-Aug-18	1.9.117	4.0.3 and up
+Popeyes® App	FOOD_AND_DRINK	3.7	61	11M	50,000+	Free	0	Everyone	Food & Drink	23-Jul-18	1.0.2	4.1 and up
+Dunkin' Donuts	FOOD_AND_DRINK	4.2	68103	66M	1,000,000+	Free	0	Everyone	Food & Drink	20-Jun-18	5.0.0	4.4 and up
+Pyaterochka	FOOD_AND_DRINK	3.1	8412	Varies with device	1,000,000+	Free	0	Everyone	Food & Drink	19-Jul-18	Varies with device	4.4 and up
+Refreshing app Free application that can use deal coupons	FOOD_AND_DRINK	3.5	10741	41M	1,000,000+	Free	0	Everyone	Food & Drink	23-Jul-18	5.2.2	4.2 and up
+Simple Recipes	FOOD_AND_DRINK	4.7	3803	15M	500,000+	Free	0	Everyone	Food & Drink	22-Feb-18	1.6	4.0 and up
+Grubhub: Food Delivery	FOOD_AND_DRINK	4.5	155944	35M	5,000,000+	Free	0	Everyone	Food & Drink	2-Aug-18	7.12	5.0 and up
+Panera Bread	FOOD_AND_DRINK	4.2	10159	36M	1,000,000+	Free	0	Everyone	Food & Drink	17-Jul-18	4.3.3	5.0 and up
+Chick-fil-A	FOOD_AND_DRINK	4.3	28008	17M	5,000,000+	Free	0	Everyone	Food & Drink	3-Aug-18	6.0.1	5.0 and up
+hellofood - Food Delivery	FOOD_AND_DRINK	4	43614	25M	1,000,000+	Free	0	Everyone	Food & Drink	12-Oct-16	2.14.36	4.0.3 and up
+Starbucks	FOOD_AND_DRINK	4.5	455377	35M	10,000,000+	Free	0	Everyone	Food & Drink	1-Aug-18	4.11.1	4.4 and up
+Easy and quick desserts	FOOD_AND_DRINK	4.6	1398	10M	100,000+	Free	0	Everyone 10+	Food & Drink	14-Jun-18	1	4.0.3 and up
+Pedometer - Step Counter Free & Calorie Burner	HEALTH_AND_FITNESS	4.8	31139	6.9M	1,000,000+	Free	0	Everyone	Health & Fitness	24-Jul-18	1.0.11	4.1 and up
+Six Pack in 30 Days - Abs Workout	HEALTH_AND_FITNESS	4.9	272337	13M	10,000,000+	Free	0	Everyone	Health & Fitness	21-Jun-18	1.0.2	4.2 and up
+Lose Weight in 30 Days	HEALTH_AND_FITNESS	4.8	220125	11M	10,000,000+	Free	0	Everyone	Health & Fitness	31-Jul-18	1.0.14	4.0 and up
+Pedometer	HEALTH_AND_FITNESS	4.4	400592	2.9M	10,000,000+	Free	0	Everyone	Health & Fitness	4-Jul-18	5.23	4.0 and up
+LG Health	HEALTH_AND_FITNESS	3.3	20098	25M	10,000,000+	Free	0	Everyone	Health & Fitness	14-May-18	5.31.75	4.4 and up
+Step Counter - Pedometer Free & Calorie Counter	HEALTH_AND_FITNESS	4.7	117925	7.0M	10,000,000+	Free	0	Everyone	Health & Fitness	24-Jul-18	1.0.26	4.1 and up
+Pedometer, Step Counter & Weight Loss Tracker App	HEALTH_AND_FITNESS	4.6	548021	27M	10,000,000+	Free	0	Everyone	Health & Fitness	2-Aug-18	p5.7.1	4.1 and up
+Sportractive GPS Running Cycling Distance Tracker	HEALTH_AND_FITNESS	4.8	48276	7.5M	1,000,000+	Free	0	Everyone	Health & Fitness	4-Aug-18	3.0.6	4.4 and up
+30 Day Fitness Challenge - Workout at Home	HEALTH_AND_FITNESS	4.8	471036	Varies with device	10,000,000+	Free	0	Everyone	Health & Fitness	3-Aug-18	Varies with device	4.0 and up
+Home Workout for Men - Bodybuilding	HEALTH_AND_FITNESS	4.8	12705	15M	1,000,000+	Free	0	Everyone	Health & Fitness	10-Jul-18	1.0.2	4.0 and up
+Fat Burning Workout - Home Weight lose	HEALTH_AND_FITNESS	4.5	706	9.4M	100,000+	Free	0	Everyone	Health & Fitness	24-Jul-18	1.0.5	4.1 and up
+Buttocks and Abdomen	HEALTH_AND_FITNESS	4.4	465	6.4M	500,000+	Free	0	Everyone	Health & Fitness	7-Jun-18	1.08	4.0.3 and up
+Walking for Weight Loss - Walk Tracker	HEALTH_AND_FITNESS	4.5	644	5.5M	100,000+	Free	0	Everyone	Health & Fitness	25-Jul-18	1.0.4	4.1 and up
+Running & Jogging	HEALTH_AND_FITNESS	4.5	6238	3.9M	500,000+	Free	0	Everyone	Health & Fitness	30-Jul-18	1.1.22	4.1 and up
+Walk with Map My Walk	HEALTH_AND_FITNESS	4.5	144040	55M	5,000,000+	Free	0	Everyone	Health & Fitness	27-Jul-18	18.7.1	5.0 and up
+Sleep Sounds	HEALTH_AND_FITNESS	4.8	51227	28M	1,000,000+	Free	0	Everyone	Health & Fitness	13-Jul-18	4.0.1	4.0.3 and up
+Fitbit	HEALTH_AND_FITNESS	3.9	357417	Varies with device	10,000,000+	Free	0	Everyone	Health & Fitness	26-Jul-18	Varies with device	Varies with device
+Lose Belly Fat-Home Abs Fitness Workout	HEALTH_AND_FITNESS	4.6	199	8.8M	50,000+	Free	0	Everyone	Health & Fitness	24-Jul-18	1.0.7	4.1 and up
+Runtastic Running App & Mile Tracker	HEALTH_AND_FITNESS	4.5	827597	Varies with device	10,000,000+	Free	0	Everyone	Health & Fitness	25-Jul-18	Varies with device	Varies with device
+Cycling - Bike Tracker	HEALTH_AND_FITNESS	4.5	9116	4.0M	500,000+	Free	0	Everyone	Health & Fitness	30-Jul-18	1.1.22	4.1 and up
+General culture	LIBRARIES_AND_DEMO	NaN	26	10M	10,000+	Free	0	Everyone	Libraries & Demo	20-Feb-18	1.2	4.0 and up
+Luffs	LIBRARIES_AND_DEMO	NaN	487	3.7M	100,000+	Free	0	Everyone	Libraries & Demo	16-Jan-18	1	4.0.3 and up
+Aviary Effects: Classic	LIBRARIES_AND_DEMO	3.8	67007	232k	5,000,000+	Free	0	Everyone	Libraries & Demo	6-Mar-13	1.2.0	2.2 and up
+Chakra Cleansing	LIBRARIES_AND_DEMO	4.6	539	99M	50,000+	Free	0	Everyone	Libraries & Demo	2-Aug-18	7	4.0.3 and up
+Aviary Stickers: Free Pack	LIBRARIES_AND_DEMO	3.5	126862	624k	10,000,000+	Free	0	Everyone	Libraries & Demo	17-Jan-12	1	2.2 and up
+Call Recorder	LIBRARIES_AND_DEMO	4.7	48	6.9M	1,000+	Free	0	Everyone	Libraries & Demo	25-May-18	1.7.2.10	4.0 and up
+Pink Water Sakura Keyboard Theme	LIBRARIES_AND_DEMO	4.3	1465	7.0M	100,000+	Free	0	Everyone	Libraries & Demo	9-Jul-18	6.7.5	4.0.3 and up
+auto Call Recorder 2018	LIBRARIES_AND_DEMO	4.5	929	7.0M	50,000+	Free	0	Everyone	Libraries & Demo	16-Feb-18	1.02.2018.11	4.0 and up
+converter video to mp3	LIBRARIES_AND_DEMO	4.4	783	6.4M	100,000+	Free	0	Everyone	Libraries & Demo	10-Jun-17	1.6	2.2 and up
+eBiblio	LIBRARIES_AND_DEMO	3.4	2907	Varies with device	50,000+	Free	0	Everyone	Libraries & Demo	22-Jun-18	Varies with device	Varies with device
+chicken song	LIBRARIES_AND_DEMO	4.3	434	16M	100,000+	Free	0	Everyone	Libraries & Demo	6-Jun-18	6.0.0	2.3 and up
+Words (188 Category)	LIBRARIES_AND_DEMO	NaN	54	5.9M	10,000+	Free	0	Everyone	Libraries & Demo	4-Jul-18	1	4.0.3 and up
+Binaural Beats Meditation	LIBRARIES_AND_DEMO	4.3	411	95M	50,000+	Free	0	Everyone	Libraries & Demo	8-Jun-18	5	4.0.3 and up
+Essential Resources	LIBRARIES_AND_DEMO	4.6	237	8.5k	50,000+	Free	0	Everyone	Libraries & Demo	27-Sep-17	1.02	7.1 and up
+MOMOLAND BBoom BBoom	LIBRARIES_AND_DEMO	4.6	2580	20M	100,000+	Free	0	Everyone	Libraries & Demo	8-Mar-18	2	2.3 and up
+Cold Spirits	LIBRARIES_AND_DEMO	NaN	363	2.5M	100,000+	Free	0	Everyone	Libraries & Demo	2-Jan-17	1.2	2.3 and up
+Cardboard	LIBRARIES_AND_DEMO	4.2	130272	50M	10,000,000+	Free	0	Everyone	Libraries & Demo	14-Mar-16	1.8	4.1 and up
+How to sew & make the easiest pattern	LIBRARIES_AND_DEMO	NaN	110	10M	10,000+	Free	0	Everyone	Libraries & Demo	5-Nov-17	1	4.0 and up
+I will return his eggs	LIBRARIES_AND_DEMO	NaN	91	18M	100,000+	Free	0	Everyone	Libraries & Demo	16-Nov-17	6	2.3 and up
+Bird Sounds & Bird Ringtones for Free 2018	LIBRARIES_AND_DEMO	4.6	130	12M	10,000+	Free	0	Everyone	Libraries & Demo	23-Feb-18	1	4.0.3 and up
+Easy Makeup Tutorials	LIFESTYLE	4.3	7287	5.0M	1,000,000+	Free	0	Everyone	Lifestyle	3-Nov-16	1	2.3 and up
+Horoscopes – Daily Zodiac Horoscope and Astrology	LIFESTYLE	4.6	161143	11M	10,000,000+	Free	0	Everyone 10+	Lifestyle	25-Jun-18	5.2.4(881)	4.0.3 and up
+Entel	LIFESTYLE	3.2	16168	55M	1,000,000+	Free	0	Everyone	Lifestyle	26-Jul-18	2.2.9	4.0.3 and up
+ZenUI Safeguard	LIFESTYLE	4.5	100	7.1M	1,000,000+	Free	0	Everyone	Lifestyle	9-May-18	1.0.0.21_180410	7.0 - 7.1.1
+Live 4D Results ! (MY & SG)	LIFESTYLE	4.6	116079	3.2M	5,000,000+	Free	0	Everyone	Lifestyle	20-May-18	5.8	2.3 and up
+Diary with lock	LIFESTYLE	4.6	815893	4.4M	10,000,000+	Free	0	Everyone	Lifestyle	30-Jun-18	4.9	4.1 and up
+FOSSIL Q: DESIGN YOUR DIAL	LIFESTYLE	4.3	985	16M	500,000+	Free	0	Everyone	Lifestyle	31-May-18	3.7	7.0 and up
+Telstra	LIFESTYLE	3	4260	6.3M	5,000,000+	Free	0	Everyone	Lifestyle	8-Aug-17	6.1	2.3.3 and up
+Family Locator - GPS Tracker	LIFESTYLE	4.4	726074	45M	10,000,000+	Free	0	Everyone	Lifestyle	2-Aug-18	16.7.1	4.4 and up
+Van Nien 2018 - Lich Van su & Lich Am	LIFESTYLE	4.4	3829	23M	1,000,000+	Free	0	Everyone	Lifestyle	1-Jun-18	3.9.3	4.1 and up
+Safeway	LIFESTYLE	4.3	33572	37M	1,000,000+	Free	0	Everyone	Lifestyle	2-Aug-18	6.2.0	4.4 and up
+HTC Speak	LIFESTYLE	3.5	6145	13M	10,000,000+	Free	0	Everyone	Lifestyle	30-Jun-16	8.00.775375	5.0 and up
+Kawaii Easy Drawing : How to draw Step by Step	LIFESTYLE	4.3	34327	8.1M	5,000,000+	Free	0	Everyone	Lifestyle	17-Jul-18	2.5.1	4.0 and up
+Tattoodo - Find your next tattoo	LIFESTYLE	4.5	7457	13M	1,000,000+	Free	0	Teen	Lifestyle	3-Aug-18	2.4.12-r244	4.1 and up
+H&M	LIFESTYLE	3.7	41941	14M	10,000,000+	Free	0	Everyone	Lifestyle	30-Jul-18	9.6.3	4.4 and up
+Samsung+	LIFESTYLE	4.5	82145	30M	50,000,000+	Free	0	Everyone	Lifestyle	5-Jul-18	10.19.0.0	4.4 and up
+Anime Avatar Creator: Make Your Own Avatar	LIFESTYLE	4.2	10944	36M	1,000,000+	Free	0	Everyone	Lifestyle	15-Jun-18	2	4.1 and up
+Beautiful Design Birthday Cake	LIFESTYLE	4.3	665	3.0M	500,000+	Free	0	Everyone	Lifestyle	4-Aug-18	2	2.3 and up
+Pronunciation and know the name of the caller from his number	LIFESTYLE	4.6	2167	1.4M	500,000+	Free	0	Everyone	Lifestyle	7-Jan-18	1	2.3 and up
+Super Slime Simulator - Satisfying Slime App	LIFESTYLE	4.5	53652	39M	1,000,000+	Free	0	Everyone	Lifestyle	5-Aug-18	2.15	5.0 and up
+Subway Surfers	GAME	4.5	27722264	76M	1,000,000,000+	Free	0	Everyone 10+	Arcade	12-Jul-18	1.90.0	4.1 and up
+Candy Crush Saga	GAME	4.4	22426677	74M	500,000,000+	Free	0	Everyone	Casual	5-Jul-18	1.129.0.2	4.1 and up
+Solitaire	GAME	4.7	254258	23M	10,000,000+	Free	0	Everyone	Card	1-Aug-18	2.137.0	4.1 and up
+Bubble Shooter	GAME	4.5	148897	46M	10,000,000+	Free	0	Everyone	Casual	17-Jul-18	1.20.1	4.0.3 and up
+Hello Kitty Nail Salon	GAME	4.2	369203	24M	50,000,000+	Free	0	Everyone	Casual;Pretend Play	17-Apr-18	1.5	4.1 and up
+slither.io	GAME	4.4	5234162	Varies with device	100,000,000+	Free	0	Everyone	Action	14-Nov-17	Varies with device	2.3 and up
+Clash Royale	GAME	4.6	23133508	97M	100,000,000+	Free	0	Everyone 10+	Strategy	27-Jun-18	2.3.2	4.1 and up
+Temple Run 2	GAME	4.3	8118609	62M	500,000,000+	Free	0	Everyone	Action	5-Jul-18	1.49.1	4.0 and up
+Pou	GAME	4.3	10485308	24M	500,000,000+	Free	0	Everyone	Casual	25-May-18	1.4.77	4.0 and up
+Helix Jump	GAME	4.2	1497361	33M	100,000,000+	Free	0	Everyone	Action	9-Apr-18	1.0.6	4.1 and up
+Block Puzzle	GAME	4.6	59800	7.8M	5,000,000+	Free	0	Everyone	Puzzle	6-Mar-18	2.9	2.3 and up
+Angry Birds Rio	GAME	4.4	2610526	46M	100,000,000+	Free	0	Everyone	Arcade	3-Jul-18	2.6.9	4.1 and up
+Plants vs. Zombies FREE	GAME	4.4	4066989	69M	100,000,000+	Free	0	Everyone 10+	Strategy	6-Jul-18	2.2.00	4.1 and up
+Sonic Dash	GAME	4.5	3778921	75M	100,000,000+	Free	0	Everyone	Arcade	26-Jul-18	3.8.5.Go	4.1 and up
+Candy Crush Soda Saga	GAME	4.4	6198563	67M	100,000,000+	Free	0	Everyone	Casual	10-Jul-18	1.118.4	4.1 and up
+Zombie Hunter King	GAME	4.3	10306	50M	1,000,000+	Free	0	Mature 17+	Action	1-Aug-18	1.0.8	2.3 and up
+Clash of Clans	GAME	4.6	44891723	98M	100,000,000+	Free	0	Everyone 10+	Strategy	15-Jul-18	10.322.16	4.1 and up
+Kick the Buddy	GAME	4.3	1000417	Varies with device	50,000,000+	Free	0	Teen	Action	5-Jul-18	Varies with device	4.4 and up
+Block Puzzle Classic Legend !	GAME	4.2	17039	4.9M	5,000,000+	Free	0	Everyone	Puzzle	13-Apr-18	2.9	2.3.3 and up
+PAC-MAN	GAME	4.2	685981	37M	100,000,000+	Free	0	Everyone	Arcade	15-May-18	6.6.3	4.1 and up
+Mahjong	FAMILY	4.5	33983	22M	5,000,000+	Free	0	Everyone	Puzzle;Brain Games	2-Aug-18	1.24.3181	4.0.3 and up
+Super ABC! Learning games for kids! Preschool apps	FAMILY	4.6	20267	46M	1,000,000+	Free	0	Everyone	Educational;Education	16-Jul-18	1.1.6.7	4.1 and up
+Toy Pop Cubes	FAMILY	4.5	5761	21M	1,000,000+	Free	0	Everyone	Casual;Brain Games	4-Jul-18	1.8.3181	4.0.3 and up
+Educational Games 4 Kids	FAMILY	4.3	11618	39M	5,000,000+	Free	0	Everyone	Educational;Education	3-Apr-18	2.4	4.1 and up
+Candy Pop Story	FAMILY	4.7	12948	23M	1,000,000+	Free	0	Everyone	Casual;Brain Games	24-May-18	2.0.3165	2.3 and up
+Solitaire	FAMILY	4.4	685	26M	100,000+	Free	0	Everyone	Card;Brain Games	16-Jul-18	1.7.101	4.1 and up
+Princess Coloring Book	FAMILY	4.5	9779	39M	5,000,000+	Free	0	Everyone	Education;Creativity	25-Feb-18	1.2.8	4.0 and up
+Hello Kitty Nail Salon	FAMILY	4.2	369378	24M	50,000,000+	Free	0	Everyone	Casual;Pretend Play	17-Apr-18	1.5	4.1 and up
+Candy Smash	FAMILY	4.5	11436	15M	1,000,000+	Free	0	Everyone	Casual;Brain Games	17-Apr-18	2.2.3169	4.0.3 and up
+Happy Fruits Bomb - Cube Blast	FAMILY	4.5	2150	20M	500,000+	Free	0	Everyone	Casual;Brain Games	1-Feb-18	1.0.3122	4.0.3 and up
+Dog Run - Pet Dog Simulator	FAMILY	4.7	48615	24M	10,000,000+	Free	0	Everyone	Simulation;Action & Adventure	22-May-18	1.4.12	4.1 and up
+Princess Adventures Puzzles	FAMILY	4.4	382	44M	500,000+	Free	0	Everyone	Education;Creativity	1-Aug-18	1.1.0	2.3 and up
+Kids Educational Game 3 Free	FAMILY	4.3	24936	38M	5,000,000+	Free	0	Everyone	Educational;Education	16-May-18	3.1	4.1 and up
+Puzzle Kids - Animals Shapes and Jigsaw Puzzles	FAMILY	4.6	1109	52M	1,000,000+	Free	0	Everyone	Educational;Brain Games	18-Jul-18	1.0.6	4.1 and up
+Coloring book moana	FAMILY	3.9	974	14M	500,000+	Free	0	Everyone	Art & Design;Pretend Play	15-Jan-18	2.0.0	4.0.3 and up
+Baby Panda Care	FAMILY	4.2	108795	49M	10,000,000+	Free	0	Everyone	Educational;Pretend Play	15-Jun-18	8.25.10.00	4.0.3 and up
+Kids Educational :All in One	FAMILY	4.5	1455	8.9M	500,000+	Free	0	Everyone	Education;Education	1-Feb-18	2.7	2.3 and up
+Number Counting games for toddler preschool kids	FAMILY	4.3	1024	Varies with device	1,000,000+	Free	0	Everyone	Educational;Education	28-May-18	Varies with device	Varies with device
+Toca Kitchen 2	FAMILY	4.5	1014822	56M	50,000,000+	Free	0	Everyone	Educational;Pretend Play	29-Jun-17	1.2.3-play	4.1 and up
+PJ Masks: Moonlight Heroes	FAMILY	4.4	86961	99M	10,000,000+	Free	0	Everyone	Casual;Action & Adventure	5-Jun-18	2.0.1	4.0.3 and up
+Learn To Draw Glow Flower	FAMILY	4.4	7320	10M	1,000,000+	Free	0	Everyone	Entertainment;Education	7-Jul-17	1.0.1	4.0.3 and up
+No. Color - Color by Number, Number Coloring	FAMILY	4.8	269194	6.9M	10,000,000+	Free	0	Everyone	Entertainment;Brain Games	3-Aug-18	Varies with device	Varies with device
+Bubble Shooter	FAMILY	4.4	59843	20M	5,000,000+	Free	0	Everyone	Puzzle;Brain Games	9-Jan-18	2.3.3122	2.3 and up
+Draw.ly - Color by Number Pixel Art Coloring	FAMILY	4.4	18616	10M	1,000,000+	Free	0	Everyone	Casual;Education	5-Aug-18	1.0.9	4.0.3 and up
+Baby puzzles	FAMILY	4.3	11950	19M	5,000,000+	Free	0	Everyone	Educational;Education	12-Jul-18	6.1	4.0.3 and up
+Garden Fruit Legend	FAMILY	4.6	4289	33M	500,000+	Free	0	Everyone	Casual;Brain Games	31-Jul-18	3.5.3183	4.0.3 and up
+Barbie™ Fashion Closet	FAMILY	4.1	68286	85M	10,000,000+	Free	0	Everyone	Casual;Creativity	30-Jul-18	1.3.7	4.1 and up
+Candy Day	FAMILY	4.5	11716	48M	1,000,000+	Free	0	Everyone	Casual;Brain Games	3-Aug-18	8.4.3180	4.0 and up
+Learn To Draw Glow Princess	FAMILY	4.5	3323	9.6M	1,000,000+	Free	0	Everyone	Casual;Pretend Play	14-Jul-17	1.0.1	4.0.3 and up
+ABC Kids - Tracing & Phonics	FAMILY	4.5	36606	Varies with device	10,000,000+	Free	0	Everyone	Educational;Education	22-Jun-18	Varies with device	4.0 and up
+MommyMeds	MEDICAL	3.2	45	21M	5,000+	Paid	$3.99 	Everyone	Medical	15-Nov-17	2.0.1	6.0 and up
+Medical ID - In Case of Emergency (ICE)	MEDICAL	4.6	717	5.4M	5,000+	Paid	$5.99 	Everyone	Medical	31-May-18	6.5.0	5.0 and up
+Human Anatomy Atlas 2018: Complete 3D Human Body	MEDICAL	4.5	2921	25M	100,000+	Paid	$24.99 	Everyone	Medical	25-May-18	2018.5.47	5.0 and up
+Essential Anatomy 3	MEDICAL	4.1	1533	42M	50,000+	Paid	$11.99 	Mature 17+	Medical	7-Aug-14	1.1.3	4.0.3 and up
+Vargo Anesthesia Mega App	MEDICAL	4.6	92	32M	1,000+	Paid	$79.99 	Everyone	Medical	18-Jun-18	19	4.0.3 and up
+EMT Review Plus	MEDICAL	4.5	199	1.8M	10,000+	Paid	$11.99 	Everyone	Medical	27-Jun-18	3.0.5	4.4W and up
+Muscle Trigger Point Anatomy	MEDICAL	4.4	1361	33M	50,000+	Paid	$2.99 	Everyone	Medical	17-Jul-18	2.4.4	4.0.3 and up
+2017 EMRA Antibiotic Guide	MEDICAL	4.4	12	3.8M	1,000+	Paid	$16.99 	Everyone	Medical	27-Jan-17	1.0.5	4.0.3 and up
+ASRA Coags	MEDICAL	4.4	15	5.8M	1,000+	Paid	$3.99 	Everyone	Medical	1-Aug-18	2.1	4.1 and up
+IBM Micromedex Drug Info	MEDICAL	3.8	206	9.5M	10,000+	Paid	$2.99 	Everyone	Medical	25-Apr-18	1.17.0	4.0 and up
+Diabetes & Diet Tracker	MEDICAL	4.6	395	19M	1,000+	Paid	$9.99 	Everyone	Medical	16-Jul-18	6.5.1	5.0 and up
+VeinSeek	MEDICAL	2.5	79	Varies with device	1,000+	Paid	$3.99 	Everyone	Medical	6-Dec-17	Varies with device	Varies with device
+Block Buddy	MEDICAL	4	15	5.0M	1,000+	Paid	$14.99 	Everyone	Medical	1-Aug-18	7.6.14	4.0 and up
+Super Hearing Secret Voices Recorder PRO	MEDICAL	5	3	23M	100+	Paid	$2.99 	Everyone	Medical	20-Apr-18	1	4.1 and up
+EMT Study - NREMT Test Prep	MEDICAL	4.3	35	862k	5,000+	Paid	$3.99 	Everyone	Medical	3-Dec-14	1.1	4.0.3 and up
+Calcium Pro	MEDICAL	3.4	77	9.9M	5,000+	Paid	$2.99 	Everyone	Medical	18-Apr-17	1.6.2	4.0.3 and up
+Arrhythmias and Dysrhythmias	MEDICAL	NaN	3	24M	500+	Paid	$1.00 	Everyone	Medical	24-Jan-16	1	4.2 and up
+EMT PASS	MEDICAL	3.4	51	2.4M	1,000+	Paid	$29.99 	Everyone	Medical	22-Oct-14	2.0.2	4.0 and up
+Pocket Lab Values	MEDICAL	4.3	214	899k	10,000+	Paid	$2.99 	Everyone	Medical	22-Nov-12	2.5	2.1 and up
+Medical terms (OFFLINE)	MEDICAL	4.4	104	38M	1,000+	Paid	$2.99 	Teen	Medical	24-May-18	3.2.0	4.1 and up
+Facebook	SOCIAL	4.1	78158306	Varies with device	1,000,000,000+	Free	0	Teen	Social	3-Aug-18	Varies with device	Varies with device
+Instagram	SOCIAL	4.5	66577313	Varies with device	1,000,000,000+	Free	0	Teen	Social	31-Jul-18	Varies with device	Varies with device
+Facebook Lite	SOCIAL	4.3	8606259	Varies with device	500,000,000+	Free	0	Teen	Social	1-Aug-18	Varies with device	Varies with device
+Messages, Text and Video Chat for Messenger	SOCIAL	4.4	49173	4.0M	10,000,000+	Free	0	Everyone	Social	4-Jun-18	1.24	4.1 and up
+Tumblr	SOCIAL	4.4	2955326	Varies with device	100,000,000+	Free	0	Mature 17+	Social	1-Aug-18	Varies with device	Varies with device
+All Social Networks	SOCIAL	4.2	22492	1.5M	1,000,000+	Free	0	Everyone	Social	21-May-18	2.4.12	4.0 and up
+Snapchat	SOCIAL	4	17014787	Varies with device	500,000,000+	Free	0	Teen	Social	30-Jul-18	Varies with device	Varies with device
+Social network all in one 2018	SOCIAL	4.3	1403	3.7M	100,000+	Free	0	Everyone	Social	30-Jan-18	1	4.0 and up
+Pinterest	SOCIAL	4.6	4305441	Varies with device	100,000,000+	Free	0	Teen	Social	3-Aug-18	Varies with device	Varies with device
+TextNow - free text + calls	SOCIAL	4.4	441189	Varies with device	10,000,000+	Free	0	Everyone	Social	3-Aug-18	Varies with device	Varies with device
+Google+	SOCIAL	4.2	4831125	Varies with device	1,000,000,000+	Free	0	Teen	Social	26-Jul-18	Varies with device	Varies with device
+The Messenger App	SOCIAL	4.4	4919	2.8M	1,000,000+	Free	0	Everyone	Social	3-Aug-18	0.1.1	4.1 and up
+Messenger Pro	SOCIAL	4.4	13762	3.9M	1,000,000+	Free	0	Everyone	Social	9-May-18	1.0.2	4.1 and up
+Free Messages, Video, Chat,Text for Messenger Plus	SOCIAL	4.3	6086	3.1M	1,000,000+	Free	0	Teen	Social	14-Jun-18	1.0.9	4.3 and up
+Telegram X	SOCIAL	4.6	70616	Varies with device	5,000,000+	Free	0	Teen	Social	27-Jul-18	Varies with device	Varies with device
+The Video Messenger App	SOCIAL	4.4	1200	2.8M	100,000+	Free	0	Everyone	Social	2-Aug-18	0.1.1	4.1 and up
+Jodel - The Hyperlocal App	SOCIAL	4.5	76480	20M	1,000,000+	Free	0	Mature 17+	Social	6-Aug-18	4.95.4	5.0 and up
+Who Viewed My Facebook Profile - Stalkers Visitors	SOCIAL	4.6	271445	9.9M	5,000,000+	Free	0	Everyone	Social	24-Jun-18	4.1.1	4.0.3 and up
+Hide Something - Photo, Video	SOCIAL	4.6	225103	5.3M	5,000,000+	Free	0	Everyone	Social	13-Jun-18	5.1.1	4.1 and up
+Love Sticker	SOCIAL	4.6	33177	10M	1,000,000+	Free	0	Everyone	Social	12-Jun-18	2.1.6	4.0 and up
+Amazon for Tablets	SHOPPING	4	141613	22M	10,000,000+	Free	0	Teen	Shopping	31-Jul-18	16.14.0.850	4.4 and up
+Wish - Shopping Made Fun	SHOPPING	4.5	6210998	15M	100,000,000+	Free	0	Everyone	Shopping	3-Aug-18	4.20.5	4.1 and up
+OfferUp - Buy. Sell. Offer Up	SHOPPING	4.6	591312	Varies with device	10,000,000+	Free	0	Everyone	Shopping	3-Aug-18	Varies with device	Varies with device
+Shopee - No. 1 Online Shopping	SHOPPING	4.3	94294	30M	10,000,000+	Free	0	Everyone	Shopping	23-Jul-18	2.25.17	4.1 and up
+Shopee: No.1 Online Shopping	SHOPPING	4.2	608753	30M	10,000,000+	Free	0	Everyone	Shopping	23-Jul-18	2.25.17	4.1 and up
+Kroger	SHOPPING	4.3	38961	27M	5,000,000+	Free	0	Everyone	Shopping	2-Aug-18	14.2.1	5.0 and up
+AliExpress - Smarter Shopping, Better Living	SHOPPING	4.6	5916606	Varies with device	100,000,000+	Free	0	Teen	Shopping	6-Aug-18	Varies with device	Varies with device
+Walmart	SHOPPING	4.4	441473	Varies with device	10,000,000+	Free	0	Everyone	Shopping	30-Jul-18	Varies with device	Varies with device
+eBay: Buy & Sell this Summer - Discover Deals Now!	SHOPPING	4.4	2788923	Varies with device	100,000,000+	Free	0	Teen	Shopping	30-Jul-18	Varies with device	Varies with device
+letgo: Buy & Sell Used Stuff, Cars & Real Estate	SHOPPING	4.5	973270	20M	50,000,000+	Free	0	Teen	Shopping	6-Aug-18	2.4.9	4.1 and up
+Amazon Shopping	SHOPPING	4.3	909226	42M	100,000,000+	Free	0	Teen	Shopping	31-Jul-18	16.14.0.100	4.4 and up
+Lazada - Online Shopping & Deals	SHOPPING	4.2	1573054	Varies with device	50,000,000+	Free	0	Everyone	Shopping	2-Aug-18	Varies with device	4.2 and up
+OLX - Buy and Sell	SHOPPING	4.2	857923	18M	50,000,000+	Free	0	Everyone	Shopping	31-Jul-18	11.7.3.0	4.1 and up
+The wall	SHOPPING	4.4	35563	4.2M	1,000,000+	Free	0	Everyone	Shopping	23-Jul-18	10.2.1	4.1 and up
+Flipp - Weekly Shopping	SHOPPING	4.6	85858	Varies with device	10,000,000+	Free	0	Everyone	Shopping	30-Jul-18	Varies with device	Varies with device
+Shrimp skin shopping: spend less, buy better	SHOPPING	4.2	106798	30M	5,000,000+	Free	0	Everyone	Shopping	23-Jul-18	2.25.17	4.1 and up
+Lotte Home Shopping LOTTE Homeshopping	SHOPPING	3.6	8820	33M	5,000,000+	Free	0	Everyone	Shopping	25-Jul-18	3.0.5	4.0.3 and up
+Horn, free country requirements	SHOPPING	4.5	37186	7.9M	1,000,000+	Free	0	Everyone	Shopping	30-Jun-18	3.4.5	4.0 and up
+Jiji.ng	SHOPPING	4.4	25714	12M	1,000,000+	Free	0	Everyone	Shopping	24-Jul-18	3.8.2.2	4.0.3 and up
+GS SHOP	SHOPPING	3.8	44255	15M	10,000,000+	Free	0	Everyone	Shopping	3-Aug-18	6.0.4	4.1 and up
